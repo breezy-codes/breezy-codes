@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**'Cyber Security Student'**
+**`Cyber Security Student`**
 
 - 👋 I’m Brianna, but you can call me Breezy
 - 🎓 I’m a full time student doing a Bachelors in Cyber Security
