@@ -5,6 +5,8 @@
 - 📓 I'm currently learning python, secure coding and cryptography
 - ☕ I’m looking to collaborate on all things beginner friendly
 - 🐱🐰🦎 I’m a crazy pet lover with too many pets
+
+<!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -12,7 +14,7 @@
 
 🏳️‍🌈
 
-<!--
+
 **breezy-codes/breezy-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
