@@ -10,7 +10,7 @@
 - 🏳️‍🌈 A part of the alphabet mafia
 - 🐱‍💻 In the top 5% on tryhackme
 
-
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 
 <!--
 
