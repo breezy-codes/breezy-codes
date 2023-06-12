@@ -34,8 +34,6 @@
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezy-codes&theme=transparent)](https://github.com/anuraghazra/breezy-codes/github-readme-stats" />
 
-<a href="http://www.github.com/breezy-codes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=breezy-codes&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/breezy-codes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezy-codes&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=breezy-codes&show_icons=true&theme=transparent" />
