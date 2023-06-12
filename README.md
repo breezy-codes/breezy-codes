@@ -10,9 +10,9 @@
 - 📓 I'm currently learning python, secure coding and cryptography
 - ☕ I’m looking to collaborate on all things beginner friendly
 - 🐱🐰🦎 I’m a crazy pet lover with too many pets
-- 🏳️‍🌈 A part of the alphabet mafia
+- 🏳️‍🌈 Part of the alphabet mafia
 - 🐱‍💻 In the top 5% on tryhackme
-
+---
 ### Skills
 
 <p align="left">
@@ -27,13 +27,18 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+---
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/breezy-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brianna-laird" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### 🏆 My TryHackMe and CodeWars Profile
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/breezyphoebe.png" alt="TryHackMe"/>
+<img align="left" width="47%" src="https://www.codewars.com/users/BreezyPhoebe/badges/large" alt="Codewars Profile" style="padding-right:10px;" />
+<br clear="left">
+<hr>
 
 ### Badges
-
+<div>
+<p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezy-codes&theme=transparent)](https://github.com/anuraghazra/breezy-codes/github-readme-stats" />
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=breezy-codes&show_icons=true&theme=transparent" />
+</p>
+  </div>
