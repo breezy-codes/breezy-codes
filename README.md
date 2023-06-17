@@ -11,7 +11,7 @@
 - ☕ I’m looking to collaborate on all things beginner friendly
 - 🐱🐰🦎 I’m a crazy pet lover with too many pets
 - 🏳️‍🌈 Part of the alphabet mafia
-- 🐱‍💻 In the top 5% on tryhackme
+- 🐱‍💻 In the top 3% on tryhackme
 ---
 ### Skills
 
