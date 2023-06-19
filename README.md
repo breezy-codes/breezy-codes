@@ -29,12 +29,14 @@
 
 ---
 
-### 🏆 My TryHackMe and CodeWars Profile
+### 🏆 My TryHackMe Profile
 <img align="left" src="https://tryhackme-badges.s3.amazonaws.com/breezyphoebe.png" alt="TryHackMe"/>
-<img align="left" width="47%" src="https://www.codewars.com/users/BreezyPhoebe/badges/large" alt="Codewars Profile" style="padding-right:10px;" />
 <br clear="left">
 <hr>
 
+<!--
+<img align="left" width="47%" src="https://www.codewars.com/users/BreezyPhoebe/badges/large" alt="Codewars Profile" style="padding-right:10px;" />
+-->
 
 ### Badges
 <div>
