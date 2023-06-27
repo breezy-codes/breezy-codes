@@ -7,10 +7,10 @@
 
 - 👋 I’m Brianna, but you can call me Breezy
 - 🎓 I’m a full time student doing a Bachelors in Cyber Security
-- 📓 I'm currently learning python, secure coding and cryptography
+- 📓 I'm currently learning python, data analytics, secure coding and cryptography
 - ☕ I’m looking to collaborate on all things beginner friendly
 - 🐱🐰🦎 I’m a crazy pet lover with too many pets
-- 🏳️‍🌈 Part of the alphabet mafia
+- 🏳️‍🌈 Proudly a part of the alphabet mafia
 - 🐱‍💻 In the top 3% on tryhackme
 ---
 ### Skills
