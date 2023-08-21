@@ -12,10 +12,12 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
+    permissions: # Update permissions to grant access to repositories
       contents: read
-      # Add this line to grant access to private repositories
-      repository: read
+      security-events: write
+      issues: write
+      pull-requests: write
+      # ... add any other necessary permissions
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
