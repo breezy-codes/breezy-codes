@@ -46,13 +46,10 @@
 
 ###
 
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<h3 align="left">🎵   Listening to recently :</h3>
 
 ###
 
-<img src="https://raw.githubusercontent.com/breezy-codes/breezy-codes/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hx798taehdz90i4mc4aqkfgcp" alt="Alt text">
+</p>
