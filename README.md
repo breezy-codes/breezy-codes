@@ -1,37 +1,58 @@
-<!--
-**breezy-codes/breezy-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
-### Hi there 👋
+<h1 align="center">Why hello there 👋</h1>
 
-**`Cyber Security Student`**
+###
 
-- 👋 I’m Brianna, but you can call me Breezy
-- 🎓 I’m a full time student doing a Bachelors in Cyber Security
-- 📓 I'm currently learning python, data analytics, secure coding and cryptography
-- ☕ I’m looking to collaborate on all things beginner friendly
-- 🐱🐰🦎 I’m a crazy pet lover with too many pets
-- 🏳️‍🌈 Proudly a part of the alphabet mafia
-- 🐱‍💻 In the top 3% on tryhackme
+<h3 align="center">👩‍💻  Cyber Security Student 👩‍💻</h3>
+
+###
+
+<p align="left">- 👋 I’m Brianna, but you can call me Breezy<br>- 🎓 I’m a full time student doing a Bachelors in Cyber Security<br>- 📓 I'm currently learning python, data analytics, secure coding and cryptography<br>- ☕ I’m looking to collaborate on all things beginner friendly<br>- 🐱🐰🦎 I’m a crazy pet lover with too many pets<br>- 🐱‍💻 In the top 3% on tryhackme</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/brianna-laird/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/breezyphoebe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+</div>
+
 ---
-### My Skills
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,mysql,md,nextjs,nodejs,py,react,cpp,cs,bootstrap,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode&perline=11)](https://skillicons.dev)
 
 ---
-### My stats
 
+###
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/breezy-codes/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
-
-
-![Metrics](https://metrics.lecoq.io/breezy-codes?template=terminal&base.indepth=true&repositories.forks=true&base.community=0&languages=1&habits=1&repositories=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=Jupyter%20Notebook%3AJupyter&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=Australia%2FSydney&config.padding=0%2C%2010%20%2B%208%25)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=breezy-codes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="230" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breezy-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="250" alt="languages graph"  />
+</div>
 
 ---
-### 🏆 My TryHackMe Profile
-<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/breezyphoebe.png" alt="TryHackMe"/>
-<br clear="left">
-<hr>
+
+###
+
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/breezy-codes/breezy-codes/output/snake.svg" alt="Snake animation" />
+
+###
