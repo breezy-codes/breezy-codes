@@ -27,7 +27,12 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,mysql,md,nextjs,nodejs,py,react,cpp,cs,bootstrap,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode&perline=11)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=js,html,css,git,java,mysql,md,nextjs,nodejs,py,react,cpp,cs,bootstrap,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode&perline=11&theme=light">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,java,mysql,md,nextjs,nodejs,py,react,cpp,cs,bootstrap,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode&perline=11&theme=light" alt="My Skills">
+  </a>
+</p>
+
 
 ---
 
@@ -38,8 +43,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=breezy-codes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="230" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breezy-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=breezy-codes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="240" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breezy-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=jolly&hide_border=false&order=2" height="240" alt="languages graph"  />
 </div>
 
 ---
