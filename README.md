@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👋 I’m Brianna, but you can call me Breezy<br>- 🎓 I’m a full time student doing a Bachelors in Cyber Security<br>- 📓 I'm currently learning python, data analytics, secure coding and cryptography<br>- ☕ I’m looking to collaborate on all things beginner friendly<br>- 🐱🐰🦎 I’m a crazy pet lover with too many pets<br>- 🐱‍💻 In the top 3% on tryhackme</p>
+<p align="left">- 👋 I’m Brianna, but you can call me Breezy<br>- 🎓 I’m a full time student doing a Bachelors in Cyber Security<br>- 📓 I'm currently working on research in computer networks and RAN configurations <br>- ☕ My interests are in quantum mechanics, cryptography, python and computer networks<br>- 🐱🐰🦎 I’m a crazy pet lover with too many pets<br>- 🐱‍💻 In the top 3% on tryhackme</p>
 
 ###
 
@@ -19,9 +19,6 @@
   </a>
   <a href="https://tryhackme.com/p/breezyphoebe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-  <a href="https://discord.com/users/breezy-codes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
