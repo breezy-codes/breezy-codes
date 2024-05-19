@@ -1,12 +1,32 @@
-<h1 align="center">Why hello there 👋</h1>
+![Introduction Image](Figures/intro.png)
 
-###
-
-<h3 align="center">🔐 Cybersecurity Student and Researcher Into Computer and Telecommunication Networks 🔐</h3>
-
-###
+<div align="center">
+  <a href="https://www.linkedin.com/in/brianna-laird/" target="_blank">
+    <span style="margin: 0 15px;">
+      <img src="Figures/linkedin.png" style="height: 35px;" alt="linkedin logo" />
+    </span>
+  </a>
+  <a href="https://www.youtube.com/@Breezy-Codes/" target="_blank">
+    <span style="margin: 0 15px;">
+      <img src="Figures/youtube.png" style="height: 35px;" alt="youtube logo" />
+    </span>
+  </a>
+  <a href="https://briannalaird.com/" target="_blank">
+    <span style="margin: 0 15px;">
+      <img src="Figures/portfolio.png" style="height: 35px;" alt="portfolio logo" />
+    </span>
+  </a>
+  <!-- Uncomment and update the path when ready to use
+  <a href="https://example.com/" target="_blank">
+    <span style="margin: 0 15px;">
+      <img src="Figures/scholar.png" style="height: 35px;" alt="other logo" />
+    </span>
+  </a>
+  -->
+</div>
 
 ### About Me
+
 - 👋 I’m Brianna, but you can call me Breezy.
 - 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security with a WAM of 92, with a focus on Computer/Telecommunication networks and RAN configurations.
 - 🔒 **[Deakin Maths Yearbook 2023](https://figshare.com/articles/book/Mathematics_Yearbook_2023/25824244):** I was the first person to be in the Deakin Maths Yearbook twice, as well as twice in the same year. I wrote a report on Cryptography, and another on Quantum Cryptography.
@@ -14,16 +34,12 @@
 - 🎯 My research interests include O-RAN, reconfigurable RAN, resource allocation for 6G networks, and cryptography.
 - 🚀 After my Bachelor's, I'll be continuing my academic journey with a PhD.
 
+---
+
 ### Current Projects and Research
 - 📝 **Research:** Currently working on research in Computer/Telecommunication networks, particularly in O-RAN and reconfigurable RAN for 6G networks. I'm currently working on publishing my first paper to IEEE.
 - 🔬 **Machine Learning** Developing Machine Learning Models to solve different problems within mobile networks as passion projects.
 - 🔬 **Learning:** Studying quantum mechanics and physics, with a focus on cryptography and resource allocation.
-
----
-
-### Featured Projects
-#### Hackathon Project
-- 🚀 **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society):** A collaborative project developed for a hackathon, showcasing the alcohol consumption problem within Australia. Highlighting government statistics on the issue.
 
 #### Computer Network Based Projects
 I created a series of Computer Networks based projects and tutorials that got me a grade of 100 in my Computer Networks subject.
@@ -37,28 +53,14 @@ I created a series of Computer Networks based projects and tutorials that got me
 1. 🔒 **[Quantum Cryptography](https://github.com/breezy-codes/Quantum-Cryptography):** Contains work I've done surrounding Quantum Cryptography, including code I developed as part of the **[Deakin Maths Yearbook 2023](https://figshare.com/articles/book/Mathematics_Yearbook_2023/25824244)**.
 2. 🔒 **[Cryptography Projects](https://github.com/breezy-codes/Cryptography-Projects):** Contains a series of small cryptography projects and programs I've made both during my studies and as projects to help in my own learning and development.
 
-### Get in Touch
-- 💬 Feel free to reach out to me for collaborations or discussions on my [LinkedIn](https://www.linkedin.com/in/brianna-laird)
-- ☕ Let's connect and talk about quantum mechanics, cryptography, or anything tech-related!
+### Featured Projects
+#### Hackathon Project
+- 🚀 **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society):** A collaborative project developed for a hackathon, showcasing the alcohol consumption problem within Australia. Highlighting government statistics on the issue.
 
 ### Fun Facts
 - 🌌 I used to suck at maths, I also didn't do well in High School but now I love maths and physics.
 - 🧩 I'm always up for solving complex puzzles, whether they are related to cybersecurity or physics.
 - 🎨 In my downtime, I enjoy playing games. My current favourites are Legends of Zelda Breath of the Wild and Tears of the Kingdom. I also enjoy Animal Crossing and Lets Build a Zoo.
-
-### Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/brianna-laird/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Breezy-Codes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/breezyphoebe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-</div>
 
 ---
 
