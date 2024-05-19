@@ -20,3 +20,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: ${{ github.breezy-codes }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 0
+          AUTO_PUSH: true
