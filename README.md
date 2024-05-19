@@ -28,7 +28,9 @@
 ### About Me
 
 - 👋 I’m Brianna, but you can call me Breezy.
-- 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security with a WAM of 92, with a focus on Computer/Telecommunication networks and RAN configurations.
+- 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 92.
+- 📝 Recipient of the Deakin Scholarhip for Excellence and the Deakin Associate Dean Summer Research Scholarship.
+- 🎓 My ADR Scholarship and Honours work focuses on Computer/Telecommunication networks and RAN configurations.
 - 🔒 **[Deakin Maths Yearbook 2023](https://figshare.com/articles/book/Mathematics_Yearbook_2023/25824244):** I was the first person to be in the Deakin Maths Yearbook twice, as well as twice in the same year. I wrote a report on Cryptography, and another on Quantum Cryptography.
 - 📚 In my own time, I'm studying cryptography, quantum cryptography, quantum mechanics, physics, and calculus.
 - 🎯 My research interests include O-RAN, reconfigurable RAN, resource allocation for 6G networks, and cryptography.
@@ -38,8 +40,8 @@
 
 ### Current Projects and Research
 - 📝 **Research:** Currently working on research in Computer/Telecommunication networks, particularly in O-RAN and reconfigurable RAN for 6G networks. I'm currently working on publishing my first paper to IEEE.
-- 🔬 **Machine Learning** Developing Machine Learning Models to solve different problems within mobile networks as passion projects.
-- 🔬 **Learning:** Studying quantum mechanics and physics, with a focus on cryptography and resource allocation.
+- 🔬 **Machine Learning:** Developing Machine Learning Models to solve different problems within mobile networks as passion projects.
+- 📝 **Learning:** Studying quantum mechanics and physics, with a focus on cryptography and resource allocation.
 
 #### Computer Network Based Projects
 I created a series of Computer Networks based projects and tutorials that got me a grade of 100 in my Computer Networks subject.
