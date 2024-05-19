@@ -83,14 +83,12 @@ I created a series of Computer Networks based projects and tutorials that got me
 
 ###
 
+<div align="center">
+  <img width="425" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api?username=breezy-codes&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="325" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=breezy-codes&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/breezy-codes/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezy-codes&layout=compact&theme=jolly&card_width=340&langs_count=10" alt="Top Langs" style="height: 230px;">
-  </a>
-  <a href="https://github.com/breezy-codes/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=breezy-codes&show_icons=true&theme=jolly&hide_rank=true&card_width=300" alt="Brianna's GitHub stats" style="height: 230px;">
-  </a>
-</p>
+
+
 
 ---
