@@ -53,33 +53,10 @@ I created a series of Computer Networks based projects and tutorials that got me
 1. 🔒 **[Quantum Cryptography](https://github.com/breezy-codes/Quantum-Cryptography):** Contains work I've done surrounding Quantum Cryptography, including code I developed as part of the **[Deakin Maths Yearbook 2023](https://figshare.com/articles/book/Mathematics_Yearbook_2023/25824244)**.
 2. 🔒 **[Cryptography Projects](https://github.com/breezy-codes/Cryptography-Projects):** Contains a series of small cryptography projects and programs I've made both during my studies and as projects to help in my own learning and development.
 
-### Featured Projects
 #### Hackathon Project
 - 🚀 **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society):** A collaborative project developed for a hackathon, showcasing the alcohol consumption problem within Australia. Highlighting government statistics on the issue.
 
-### Fun Facts
-- 🌌 I used to suck at maths, I also didn't do well in High School but now I love maths and physics.
-- 🧩 I'm always up for solving complex puzzles, whether they are related to cybersecurity or physics.
-- 🎨 In my downtime, I enjoy playing games. My current favourites are Legends of Zelda Breath of the Wild and Tears of the Kingdom. I also enjoy Animal Crossing and Lets Build a Zoo.
-
 ---
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<p align="center">
-  <a href="https://skillicons.dev/icons?i=js,git,java,mysql,md,py,react,cpp,cs,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode,pytorch&perline=9&theme=light">
-    <img src="https://skillicons.dev/icons?i=js,git,java,mysql,md,py,react,cpp,cs,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode,pytorch&perline=9&theme=light" alt="My Skills">
-  </a>
-</p>
-
-
----
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -90,7 +67,10 @@ I created a series of Computer Networks based projects and tutorials that got me
   <img width="325" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=breezy-codes&hide=HTML&langs_count=8&layout=compact&theme=material-palenight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br>
 
-
-
----
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=js,git,java,mysql,md,py,react,cpp,cs,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode,pytorch&perline=9&theme=light">
+    <img src="https://skillicons.dev/icons?i=js,git,java,mysql,md,py,react,cpp,cs,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode,pytorch&perline=9&theme=light" alt="My Skills">
+  </a>
+</p>
