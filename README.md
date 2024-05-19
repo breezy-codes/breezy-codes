@@ -16,7 +16,7 @@
       <img src="Figures/portfolio.png" style="height: 35px;" alt="portfolio logo" />
     </span>
   </a>
-  <!-- Uncomment and update the path when ready to use
+  <!--
   <a href="https://example.com/" target="_blank">
     <span style="margin: 0 15px;">
       <img src="Figures/scholar.png" style="height: 35px;" alt="other logo" />
