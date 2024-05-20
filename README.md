@@ -65,7 +65,7 @@ I created a series of Computer Networks based projects and tutorials that got me
 ###
 
 <div align="center">
-    <img width="550" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api?username=breezy-codes&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="450" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api?username=breezy-codes&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10" alt="readme stats" />
     <img width="325" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api/top-langs/?username=breezy-codes&hide=HTML,CSS&langs_count=10&layout=compact&theme=material-palenight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
