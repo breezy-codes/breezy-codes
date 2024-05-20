@@ -73,11 +73,22 @@ I created a series of Computer Networks based projects and tutorials that got me
     <img width="325" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=breezy-codes&hide=HTML&langs_count=8&layout=compact&theme=material-palenight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=breezy-codes&theme=onedark" alt="GitHub Profile Trophies" style="max-width: 100%;" />
+</div>
 
-<br>
+---
 
-<p align="center">
-  <a href="https://skillicons.dev/icons?i=js,git,java,mysql,md,py,react,cpp,cs,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode,pytorch&perline=9&theme=light">
-    <img src="https://skillicons.dev/icons?i=js,git,java,mysql,md,py,react,cpp,cs,eclipse,ai,latex,linux,powershell,raspberrypi,regex,vscode,pytorch&perline=9&theme=light" alt="My Skills">
+<div align="center">
+  <h3>Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,py,cpp,cs,dotnet,latex,anaconda,bootstrap,react,js,java" alt="Languages"/>
   </a>
-</p>
+</div>
+
+<div align="center">
+    <h3>Tools and Softwares</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,eclipse,regex,vscode,ai,linux,visualstudio,raspberrypi,ubuntu" alt="Tools"/>
+    </a>
+</div>
