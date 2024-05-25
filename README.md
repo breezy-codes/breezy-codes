@@ -52,7 +52,7 @@ I created a series of Computer Networks based projects and tutorials that got me
 5. 🌐 **[Tutorial Articles on my Portfolio](https://briannalaird.com/tutorials):** Text Versions of the tutorials
 
 #### Cryptography and Quantum-Based Projects
-1. 🔒 **[Quantum Cryptography](https://github.com/breezy-codes/Quantum-Cryptography):** Contains work I've done surrounding Quantum Cryptography, including code I developed as part of the **[Deakin Maths Yearbook 2023](https://figshare.com/articles/book/Mathematics_Yearbook_2023/25824244)**.
+1. 🔒 **[Quantum Cryptography](https://github.com/breezy-codes/Quantum-Cryptography):** Contains work I've done surrounding Quantum Cryptography, including code I developed as part of the **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view)**.
 2. 🔒 **[Cryptography Projects](https://github.com/breezy-codes/Cryptography-Projects):** Contains a series of small cryptography projects and programs I've made both during my studies and as projects to help in my own learning and development.
 
 #### Hackathon Project
