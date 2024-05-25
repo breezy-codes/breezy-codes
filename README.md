@@ -31,7 +31,7 @@
 - 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 92.
 - 📝 Recipient of the Deakin Scholarhip for Excellence and the Deakin Associate Dean Summer Research Scholarship.
 - 🎓 My ADR Scholarship and Honours work focuses on Computer/Telecommunication networks and RAN configurations.
-- 🔒 **[Deakin Maths Yearbook 2023](https://figshare.com/articles/book/Mathematics_Yearbook_2023/25824244):** I was the first person to be in the Deakin Maths Yearbook twice, as well as twice in the same year. I wrote a report on Cryptography, and another on Quantum Cryptography.
+- 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be in the Deakin Maths Yearbook twice, as well as twice in the same year. I wrote a report on Cryptography, and another on Quantum Cryptography.
 - 📚 In my own time, I'm studying cryptography, quantum cryptography, quantum mechanics, physics, and calculus.
 - 🎯 My research interests include O-RAN, reconfigurable RAN, resource allocation for 6G networks, and cryptography.
 - 🚀 After my Bachelor's, I'll be continuing my academic journey with a PhD.
