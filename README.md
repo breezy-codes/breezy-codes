@@ -37,23 +37,29 @@
 - 🚀 After my Bachelor's, I'll be continuing my academic journey with a PhD.
 
 ---
-
-### Current Projects and Research
+### Current Research areas I'm exploring:
 - 📝 **Research:** Currently working on research in Computer/Telecommunication networks, particularly in O-RAN and reconfigurable RAN for 6G networks. I'm currently working on publishing my first paper to IEEE.
-- 🔬 **Machine Learning:** Developing Machine Learning Models to solve different problems within mobile networks as passion projects.
-- 📝 **Learning:** Studying quantum mechanics and physics, with a focus on cryptography and resource allocation.
+- 🔬 **Machine Learning:** Developing Machine Learning Models to solve different problems within mobile networks.
+- 📝 **Network Optimisation:** Studying otpimisation and constraint programming to learn how to optimise various aspects of mobile networks.
 
-#### Computer Network Based Projects
-I created a series of Computer Networks based projects and tutorials that got me a grade of 100 in my Computer Networks subject.
-1. 🌐 **[ARP Simulator](https://github.com/breezy-codes/ARP-Simulator):** A simple python program to simulate the ARP process in a local network environment.
-2. 🌐 **[Control Plane Simulator](https://github.com/breezy-codes/Control-Plane-Simulator):** Two simple programs to simulate finding the shortest path over the network.
-3. 🌐 **[Server Client Program](https://github.com/breezy-codes/Server-Client-Program):** A simple Server Client style program that simulates how they communicate.
-4. 🌐 **[Youtube Tutorial Series](https://www.youtube.com/playlist?list=PL4Wc20ExYa-rOJPYFocURBIpAePyCJ4Un):** My YouTube playlist of tutorials I made around Computer Networks, CISCO packet Tracer and Wireshark.
-5. 🌐 **[Tutorial Articles on my Portfolio](https://briannalaird.com/tutorials):** Text Versions of the tutorials
+### Projects I'm currently working on:
+#### 📝 **[Computer Networks Guide Book](https://breezy-codes.github.io/computer-networks-guide)** 📝
+The **Computer Networks Guide Book** is a resource created to help students and enthusiasts understand aspects of computer networks. This guide originated from a series of projects and tutorials that I developed, which earned me a perfect grade in my Computer Networks subject. Realising its value, I have transformed this collection into a comprehensive website. The guide covers a wide range of topics, including:
+- Concepts of computer networking.
+- Tutorials for Wireshark for analysing network traffic, and tutorials on CISCO Packet Tracer for configuring network devices.
+- Step-by-step tutorials on various python simulations to demonstrate different aspects of computer networks and how they work.
 
-#### Cryptography and Quantum-Based Projects
-1. 🔒 **[Quantum Cryptography](https://github.com/breezy-codes/Quantum-Cryptography):** Contains work I've done surrounding Quantum Cryptography, including code I developed as part of the **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view)**.
-2. 🔒 **[Cryptography Projects](https://github.com/breezy-codes/Cryptography-Projects):** Contains a series of small cryptography projects and programs I've made both during my studies and as projects to help in my own learning and development.
+#### 🔒 [The World of Cryptography](https://breezy-codes.github.io/cryptography-guide)
+**The World of Cryptography** is a resource created to help explain the different aspects of Cryptoraphy. This project is designed to provide both theoretical knowledge of the maths and algorithms, and implementation in python code. The site includes:
+- Mathematical foundations, including number theory and matrix algebra, that are crucial for understanding cryptographic principles.
+- In-depth guides on various cryptographic algorithms, such as RSA, AES, and ECC.
+- An exploration into the history of cryptography and some of the ciphers used historically.
+
+#### 🔒 [Quantum Cryptography](https://breezy-codes.github.io/quantum-cryptography-guide)
+**Quantum Cryptography** is an exploratory project focused on the intersection of quantum computing and cryptography. This project is design to show the changes quantum computing brings to the field of cryptography. TIt explores the basics of quantum computing before going into quantum algorithms. This site includes:
+- An introduction to quantum computing and its principles.
+- Explanations of quantum cryptographic techniques such as quantum key distribution (QKD).
+- Insights into how quantum computers can potentially break traditional cryptographic algorithms using Shor's algorithm.
 
 #### Hackathon Project
 - 🚀 **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society):** A collaborative project developed for a hackathon, showcasing the alcohol consumption problem within Australia. Highlighting government statistics on the issue.
