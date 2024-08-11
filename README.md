@@ -72,7 +72,7 @@ The **Computer Networks Guide Book** is a resource created to help students and 
 
 <div align="center">
     <img width="450" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api?username=breezy-codes&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="325" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api/top-langs/?username=breezy-codes&&langs_count=12&layout=compact&theme=material-palenight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+    <img width="325" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api/top-langs/?username=breezy-codes&&langs_count=10&layout=compact&theme=material-palenight&border_radius=10&size_weight=0.5&count_weight=0.5&hide=html" alt="top langs" />
 </div>
 
 <div align="center">
