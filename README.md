@@ -30,17 +30,14 @@
 - 👋 I’m Brianna, but you can call me Breezy.
 - 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 92.
 - 📝 Recipient of the Deakin Scholarhip for Excellence and the Deakin Associate Dean Summer Research Scholarship.
-- 🎓 My ADR Scholarship and future Honours work focuses on Computer/Telecommunication networks and RAN configurations.
+- 🎓 My ADR Scholarship and future Honours work focuses on optimisation frameworks for Telecommunication networks and reconfigurable RAN.
 - 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be in the Deakin Maths Yearbook twice, as well as twice in the same year. I wrote a report on Cryptography, and another on Quantum Cryptography.
-- 📚 In my own time, I'm studying cryptography, quantum cryptography, quantum mechanics, physics, and calculus.
-- 🎯 My research interests include O-RAN, reconfigurable RAN, resource allocation for 6G networks, and cryptography.
 - 🚀 After my Bachelor's, I'll be continuing my academic journey with a PhD.
 
 ---
 ### Current Research areas I'm exploring:
-- 📝 **Research:** Currently working on research in Computer/Telecommunication networks, particularly in O-RAN and reconfigurable RAN for 6G networks. I'm currently working on publishing my first paper to IEEE.
-- 🔬 **Machine Learning:** Developing Machine Learning Models to solve different problems within mobile networks.
-- 📝 **Network Optimisation:** Studying otpimisation and constraint programming to learn how to optimise various aspects of mobile networks.
+- 📝 **Research:** Currently working on research in optimisation of Telecommunication networks, particularly in O-RAN and reconfigurable RAN for 6G networks. Currently working on 3 research papers within this field.
+- 📝 **Mathematics:** Studying mathematical programming, optimisation, and Communication networks.
 
 ### Projects I'm currently working on:
 #### 📝 **[Computer Networks Guide Book](https://breezy-codes.github.io/computer-networks-guide)** 📝
@@ -84,7 +81,7 @@ The **Computer Networks Guide Book** is a resource created to help students and 
 <div align="center">
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,py,cpp,cs,dotnet,latex,anaconda,bootstrap,react,js,java" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=md,py,cpp,cs,dotnet,latex,anaconda,js,java" alt="Languages"/>
   </a>
 </div>
 
@@ -92,7 +89,7 @@ The **Computer Networks Guide Book** is a resource created to help students and 
 <div align="center">
     <h3>Tools and Softwares</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,eclipse,regex,vscode,ai,linux,visualstudio,raspberrypi,ubuntu" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,visualstudio,ai,raspberrypi,linux,ubuntu,arch" alt="Tools"/>
     </a>
 </div>
 
