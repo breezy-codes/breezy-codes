@@ -28,7 +28,7 @@
 ### About Me
 
 - 👋 I’m Brianna, but you can call me Breezy.
-- 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 92.
+- 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 93.
 - 📝 Recipient of the Deakin Scholarhip for Excellence and the Deakin Associate Dean Summer Research Scholarship.
 - 🎓 My ADR Scholarship and future Honours work focuses on optimisation frameworks for Telecommunication networks and reconfigurable RAN.
 - 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be in the Deakin Maths Yearbook twice, as well as twice in the same year. I wrote a report on Cryptography, and another on Quantum Cryptography.
