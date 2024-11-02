@@ -25,41 +25,65 @@
   -->
 </div>
 
-### About Me
+## About Me
 
 - 👋 I’m Brianna, but you can call me Breezy.
 - 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 93.
-- 📝 Recipient of the Deakin Scholarhip for Excellence and the Deakin Associate Dean Summer Research Scholarship.
-- 🎓 My ADR Scholarship and future Honours work focuses on optimisation frameworks for Telecommunication networks and reconfigurable RAN.
-- 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be in the Deakin Maths Yearbook twice, as well as twice in the same year. I wrote a report on Cryptography, and another on Quantum Cryptography.
-- 🚀 After my Bachelor's, I'll be continuing my academic journey with a PhD.
+- 📝 Recipient of the Deakin Scholarship for Excellence and the Deakin Associate Dean Summer Research Scholarship.
+- 🎓 My honours research focuses on designing a mathematical framework for optimising xhaul networks in beyond 5G, with a focus on O-RAN architectures.
+- 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be featured in the Deakin Maths Yearbook twice, and both times in the same year. My contributions included reports on Cryptography and Quantum Cryptography.
+- 🚀 After my Bachelor's, I plan to continue my academic journey with a PhD.
 
 ---
-### Current Research areas I'm exploring:
-- 📝 **Research:** Currently working on research in optimisation of Telecommunication networks, particularly in O-RAN and reconfigurable RAN for 6G networks. Currently working on 3 research papers within this field.
-- 📝 **Mathematics:** Studying mathematical programming, optimisation, and Communication networks.
 
-### Projects I'm currently working on:
-#### 📝 **[Computer Networks Guide Book](https://breezy-codes.github.io/computer-networks-guide)** 📝
-The **Computer Networks Guide Book** is a resource created to help students and enthusiasts understand aspects of computer networks. This guide originated from a series of projects and tutorials that I developed, which earned me a perfect grade in my Computer Networks subject. Realising its value, I have transformed this collection into a comprehensive website. The guide covers a wide range of topics, including:
+### Current Research Areas
+
+- 📝 **Honours Research in Telecommunications Optimisation:** Currently conducting honours research in computational mathematics and optimisation, with a specific focus on designing frameworks for efficient deployment strategies in telecommunications networks, particularly in x-haul for beyond 5G. This research is motivated by the challenge of improving phone coverage and connectivity in regional Australia.
+- 📝 **Mathematics & Optimisation in Network Design:** Exploring advanced mathematical programming and optimisation techniques to address complex challenges in future network architectures, including reconfigurable RAN and cost-effective network deployment.
+- 📝 **Current Research Progress:** One paper submitted to a conference, with three additional papers currently in progress, focusing on various aspects of beyond 5G networks, network optimisation, reconfigurable RAN, and deployment strategies for beyond 5G networks.
+
+---
+
+### Projects and Contributions
+
+#### 📝 **[Computer Networks Guide Book](https://breezy-codes.github.io/computer-networks-guide)**  
+
+A comprehensive guide to computer networks, originally developed as a series of projects and tutorials that earned a perfect grade in my Computer Networks subject. Now a full resource site, covering:
+
 - Concepts of computer networking.
-- Tutorials for Wireshark for analysing network traffic, and tutorials on CISCO Packet Tracer for configuring network devices.
-- Step-by-step tutorials on various python simulations to demonstrate different aspects of computer networks and how they work.
+- Tutorials for analysing network traffic using Wireshark and configuring devices with CISCO Packet Tracer.
+- Python simulations that illustrate different aspects of computer networks.
 
-#### 🔒 [The World of Cryptography](https://breezy-codes.github.io/cryptography-guide)
-**The World of Cryptography** is a resource created to help explain the different aspects of Cryptoraphy. This project is designed to provide both theoretical knowledge of the maths and algorithms, and implementation in python code. The site includes:
-- Mathematical foundations, including number theory and matrix algebra, that are crucial for understanding cryptographic principles.
-- In-depth guides on various cryptographic algorithms, such as RSA, AES, and ECC.
-- An exploration into the history of cryptography and some of the ciphers used historically.
+#### 🔒 **[The World of Cryptography](https://breezy-codes.github.io/cryptography-guide)**  
 
-#### 🔒 [Quantum Cryptography](https://breezy-codes.github.io/quantum-cryptography-guide)
-**Quantum Cryptography** is an exploratory project focused on the intersection of quantum computing and cryptography. This project is design to show the changes quantum computing brings to the field of cryptography. TIt explores the basics of quantum computing before going into quantum algorithms. This site includes:
-- An introduction to quantum computing and its principles.
-- Explanations of quantum cryptographic techniques such as quantum key distribution (QKD).
-- Insights into how quantum computers can potentially break traditional cryptographic algorithms using Shor's algorithm.
+An educational site on cryptography, blending theory and practical implementations in Python. This resource includes:
 
-#### Hackathon Project
-- 🚀 **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society):** A collaborative project developed for a hackathon, showcasing the alcohol consumption problem within Australia. Highlighting government statistics on the issue.
+- Mathematical foundations crucial to cryptographic principles, like number theory and matrix algebra.
+- Detailed guides on cryptographic algorithms such as RSA, AES, and ECC.
+- Historical context and exploration of various classic ciphers.
+
+#### 🔒 **[Quantum Cryptography](https://breezy-codes.github.io/quantum-cryptography-guide)**  
+
+A project exploring the impact of quantum computing on cryptography, including:
+
+- Basic principles of quantum computing.
+- Quantum cryptographic techniques like quantum key distribution (QKD).
+- Insights into the potential of quantum computing to break traditional cryptographic algorithms.
+
+#### 🚀 **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society)**  
+
+A hackathon project addressing alcohol consumption issues in Australia by visualising government statistics and raising awareness.
+
+---
+
+### Capstone and Community Contributions
+
+During my capstone projects, I contributed extensively to the following GitHub organisations:
+
+- **[SplashKit](https://github.com/splashkit):** Developed new functions for SplashKit core, updated tutorials on the SplashKit website, and took on a leadership role within the capstone project for SplashKit.
+- **[Thoth Tech](https://github.com/thoth-tech):** Extended company documentation and contributed to multiple ongoing projects.
+  
+I also served as a committee member for **Innofes**, collaborating with peers and faculty to drive innovation-focused events.
 
 ---
 
@@ -92,4 +116,3 @@ The **Computer Networks Guide Book** is a resource created to help students and 
       <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,visualstudio,ai,raspberrypi,linux,ubuntu,arch" alt="Tools"/>
     </a>
 </div>
-
