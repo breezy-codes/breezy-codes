@@ -43,15 +43,11 @@
 - 📝 **Current Research Progress:** One paper submitted to a conference, with three additional papers currently in progress, focusing on various aspects of beyond 5G networks, network optimisation, reconfigurable RAN, and deployment strategies for beyond 5G networks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,791 Contributions in the Year 2024
+> 🏆 1,788 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,21 +58,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                709 commits         █████████░░░░░░░░░░░░░░░░   37.14 % 
-🌆 Daytime                965 commits         █████████████░░░░░░░░░░░░   50.55 % 
-🌃 Evening                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+🌞 Morning                710 commits         █████████░░░░░░░░░░░░░░░░   37.17 % 
+🌆 Daytime                965 commits         █████████████░░░░░░░░░░░░   50.52 % 
+🌃 Evening                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Tuesday                  212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Tuesday                  212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 Wednesday                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Thursday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Friday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Saturday                 397 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Sunday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Thursday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Friday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Saturday                 397 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Sunday                   367 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 ```
 
 
@@ -105,12 +101,8 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/breezy-codes/breezy-codes/main/assets/bar_graph.png)
-
-
- Last Updated on 02/11/2024 23:52:11 UTC
+ Last Updated on 02/11/2024 23:58:40 UTC
 <!--END_SECTION:waka-->
 
 ---
