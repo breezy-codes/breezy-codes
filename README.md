@@ -43,6 +43,74 @@
 - 📝 **Current Research Progress:** One paper submitted to a conference, with three additional papers currently in progress, focusing on various aspects of beyond 5G networks, network optimisation, reconfigurable RAN, and deployment strategies for beyond 5G networks.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,791 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 26 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                709 commits         █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌆 Daytime                965 commits         █████████████░░░░░░░░░░░░   50.55 % 
+🌃 Evening                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Tuesday                  212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Wednesday                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Thursday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Friday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Saturday                 397 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Sunday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TeX                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/breezy-codes/breezy-codes/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/11/2024 23:52:11 UTC
 <!--END_SECTION:waka-->
 
 ---
