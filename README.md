@@ -42,6 +42,11 @@
 - 📝 **Mathematics & Optimisation in Network Design:** Exploring advanced mathematical programming and optimisation techniques to address complex challenges in future network architectures, including reconfigurable RAN and cost-effective network deployment.
 - 📝 **Current Research Progress:** One paper submitted to a conference, with three additional papers currently in progress, focusing on various aspects of beyond 5G networks, network optimisation, reconfigurable RAN, and deployment strategies for beyond 5G networks.
 
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:SHOW_COMMI-->
+<!--END_SECTION:SHOW_COMMIT-->
+
 ---
 
 ### Projects and Contributions
