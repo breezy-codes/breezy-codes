@@ -42,8 +42,6 @@
 - 📝 **Mathematics & Optimisation in Network Design:** Exploring advanced mathematical programming and optimisation techniques to address complex challenges in future network architectures, including reconfigurable RAN and cost-effective network deployment.
 - 📝 **Current Research Progress:** One paper submitted to a conference, with three additional papers currently in progress, focusing on various aspects of beyond 5G networks, network optimisation, reconfigurable RAN, and deployment strategies for beyond 5G networks.
 
-## 📊 Weekly Development Breakdown
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -52,34 +50,18 @@
 ### Projects and Contributions
 
 #### 📝 **[Computer Networks Guide Book](https://breezy-codes.github.io/computer-networks-guide)**  
-
-A comprehensive guide to computer networks, originally developed as a series of projects and tutorials that earned a perfect grade in my Computer Networks subject. Now a full resource site, covering:
-
-- Concepts of computer networking.
-- Tutorials for analysing network traffic using Wireshark and configuring devices with CISCO Packet Tracer.
-- Python simulations that illustrate different aspects of computer networks.
+A comprehensive resource covering computer networking concepts, network traffic analysis with Wireshark, and device configuration with CISCO Packet Tracer.
 
 #### 🔒 **[The World of Cryptography](https://breezy-codes.github.io/cryptography-guide)**  
-
-An educational site on cryptography, blending theory and practical implementations in Python. This resource includes:
-
-- Mathematical foundations crucial to cryptographic principles, like number theory and matrix algebra.
-- Detailed guides on cryptographic algorithms such as RSA, AES, and ECC.
-- Historical context and exploration of various classic ciphers.
+An educational site I've created on cryptography, blending theory and practical Python implementations of key algorithms.
 
 #### 🔒 **[Quantum Cryptography](https://breezy-codes.github.io/quantum-cryptography-guide)**  
-
-A project exploring the impact of quantum computing on cryptography, including:
-
-- Basic principles of quantum computing.
-- Quantum cryptographic techniques like quantum key distribution (QKD).
-- Insights into the potential of quantum computing to break traditional cryptographic algorithms.
+A project I'm working on thats exploring quantum computing’s impact on cryptography, including quantum key distribution and algorithm vulnerabilities.
 
 #### 🚀 **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society)**  
+A hackathon I participated in doing a project addressing alcohol consumption issues in Australia by visualising government statistics and raising awareness.
 
-A hackathon project addressing alcohol consumption issues in Australia by visualising government statistics and raising awareness.
-
----
+--- 
 
 ### Capstone and Community Contributions
 
@@ -87,10 +69,6 @@ During my capstone projects, I contributed extensively to the following GitHub o
 
 - **[SplashKit](https://github.com/splashkit):** Developed new functions for SplashKit core, updated tutorials on the SplashKit website, and took on a leadership role within the capstone project for SplashKit.
 - **[Thoth Tech](https://github.com/thoth-tech):** Extended company documentation and contributed to multiple ongoing projects.
-  
-I also served as a committee member for **Innofes**, collaborating with peers and faculty to drive innovation-focused events.
-
----
 
 <h3 align="left">🔥   My Stats :</h3>
 
