@@ -2,8 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 0,12 * * *'
+    - cron: '0 14 * * 2,4,6'  # Runs at 12 a.m. AEST on Wednesday, Friday, and Sunday
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -22,4 +23,3 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_OS: "True"
           SHOW_LANGUAGE: "True"
-          
