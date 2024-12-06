@@ -34,6 +34,8 @@
 - 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be featured in the Deakin Maths Yearbook twice, and both times in the same year. My contributions included reports on Cryptography and Quantum Cryptography.
 - 🚀 After my Bachelor's, I plan to continue my academic journey with a PhD.
 
+Check out my [Portfolio Website](https://briannalaird.com/)
+
 ## 📝 Currently Researching 📝
 
 - 📝 **Telecommunications Optimisation:** Honours research on optimisation frameworks for efficient x-haul deployment in beyond 5G networks, addressing connectivity challenges in regional Australia.
@@ -81,13 +83,13 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 ## Projects and Contributions
 
-### 📝 **[Computer Networks Guide Book](https://breezy-codes.github.io/computer-networks-guide)**  
+### 📝 **[Computer Networks Guide Book](https://comp-networks.breezy-codes.com)**  
 A comprehensive resource covering computer networking concepts, network traffic analysis with Wireshark, and device configuration with CISCO Packet Tracer.
 
-### 🔒 **[The World of Cryptography](https://breezy-codes.github.io/cryptography-guide)**  
+### 🔒 **[The World of Cryptography](https://crypto.breezy-codes.com)**  
 An educational site I've created on cryptography, blending theory and practical Python implementations of key algorithms.
 
-### 🔒 **[Quantum Cryptography](https://breezy-codes.github.io/quantum-cryptography-guide)**  
+### 🔒 **[Quantum Cryptography](https://quantum-crypto.breezy-codes.com)**  
 A project I'm working on thats exploring quantum computing’s impact on cryptography, including quantum key distribution and algorithm vulnerabilities.
 
 ### 🚀 **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society)**  
