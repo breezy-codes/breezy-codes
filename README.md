@@ -33,8 +33,7 @@
 - 🎓 My honours research focuses on designing a mathematical framework for optimising xhaul networks in beyond 5G, with a focus on O-RAN architectures.
 - 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be featured in the Deakin Maths Yearbook twice, and both times in the same year. My contributions included reports on Cryptography and Quantum Cryptography.
 - 🚀 After my Bachelor's, I plan to continue my academic journey with a PhD.
-
-Check out my [Portfolio Website](https://briannalaird.com/)
+- Check out my [Portfolio Website](https://briannalaird.com/)
 
 ## 📝 Currently Researching 📝
 
