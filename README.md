@@ -117,3 +117,7 @@ During my capstone projects, I contributed extensively to the following GitHub o
       <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,visualstudio,ai,raspberrypi,linux,ubuntu,arch" alt="Tools"/>
     </a>
 </div>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=breezy-codes&theme=onedark&row=1" alt="GitHub Profile Trophies" style="max-width: 100%;" />
+</div>
