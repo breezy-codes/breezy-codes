@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 14 * * 2,4,6'  # Runs at 12 a.m. AEST on Wednesday, Friday, and Sunday
+    - cron: '0 14 * * 0'  # Runs at 12 a.m. AEST every Sunday
   workflow_dispatch:
 
 jobs:
