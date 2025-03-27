@@ -29,17 +29,17 @@
 
 - 👋 I’m Brianna, but you can call me Breezy.
 - 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 93.
-- 📝 Recipient of the Deakin Scholarship for Excellence and the Deakin Associate Dean Summer Research Scholarship.
+- 📝 Recipient of the Deakin Scholarship for Excellence (bachelors and Honours) and the Deakin Associate Dean Summer Research Scholarship twice.
 - 🎓 My honours research focuses on designing a mathematical framework for optimising xhaul networks in beyond 5G, with a focus on O-RAN architectures.
-- 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be featured in the Deakin Maths Yearbook twice, and both times in the same year. My contributions included reports on Cryptography and Quantum Cryptography.
-- 🚀 After my Bachelor's, I plan to continue my academic journey with a PhD.
+- 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be featured in the Deakin Maths Yearbook twice, and both times in the same year. My contributions included reports on Cryptography and Quantum Cryptography. I will also be in the 2024 edition for a report on optimisation in telecommunications.
+- 🚀 I will be commencing a PhD in late 2025 within the field of Telecommunications and Computational mathematics.
 - Check out my [Portfolio Website](https://briannalaird.com/)
 
 ## 📝 Currently Researching 📝
 
 - 📝 **Telecommunications Optimisation:** Honours research on optimisation frameworks for efficient x-haul deployment in beyond 5G networks, addressing connectivity challenges in regional Australia.
 - 📝 **Mathematics & Network Optimisation:** Applying advanced mathematical programming to solve network design issues in reconfigurable RAN and cost-effective deployment.
-- 📝 **Research Progress:** One paper submitted, with three more in progress on beyond 5G, network optimisation, and reconfigurable RAN.
+- 📝 **Research Progress:** Accepted research paper to the Optical Fibre Communication Conference in America, 3 more papers currently in progress.
 
 ## 🚀 GitHub Stats 🚀
 
