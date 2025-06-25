@@ -16,15 +16,12 @@
       <img src="Figures/portfolio.png" style="height: 35px;" alt="portfolio logo" />
     </span>
   </a>
-  <!--
-  <a href="https://example.com/" target="_blank">
+  <a href="https://scholar.google.com/citations?user=exg3AzgAAAAJ&hl=en&oi=ao" target="_blank">
     <span style="margin: 0 15px;">
       <img src="Figures/scholar.png" style="height: 35px;" alt="other logo" />
     </span>
   </a>
-  -->
 </div>
-
 ## :sunglasses: About Me :sunglasses: 
 
 - 👋 I’m Brianna, but you can call me Breezy.
@@ -33,13 +30,13 @@
 - 🎓 My honours research focuses on designing a mathematical framework for optimising xhaul networks in beyond 5G, with a focus on O-RAN architectures.
 - 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be featured in the Deakin Maths Yearbook twice, and both times in the same year. My contributions included reports on Cryptography and Quantum Cryptography. I will also be in the 2024 edition for a report on optimisation in telecommunications.
 - 🚀 I will be commencing a PhD in late 2025 within the field of Telecommunications and Computational mathematics.
-- Check out my [Portfolio Website](https://briannalaird.com/)
+- 📝 Check out my [Portfolio Website](https://briannalaird.com/)
 
 ## 📝 Currently Researching 📝
 
 - 📝 **Telecommunications Optimisation:** Honours research on optimisation frameworks for efficient x-haul deployment in beyond 5G networks, addressing connectivity challenges in regional Australia.
 - 📝 **Mathematics & Network Optimisation:** Applying advanced mathematical programming to solve network design issues in reconfigurable RAN and cost-effective deployment.
-- 📝 **Research Progress:** Accepted research paper to the Optical Fibre Communication Conference in America, 3 more papers currently in progress.
+- 📝 **Research Progress:** [Accepted research paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exg3AzgAAAAJ&citation_for_view=exg3AzgAAAAJ:d1gkVwhDpl0C) to the Optical Fibre Communication Conference in San Francisco USA, 3 more papers currently in progress.
 
 ## 🚀 GitHub Stats 🚀
 
@@ -48,31 +45,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 4.4 MB Used in GitHub's Storage 
- > 
-> 🏆 2,300 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 41 Private Repositories 
- > 
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         22 repos            ████████░░░░░░░░░░░░░░░░░   33.85 % 
-TeX                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-C#                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Linear Programming       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
