@@ -22,10 +22,11 @@
     </span>
   </a>
 </div>
+
 ## :sunglasses: About Me :sunglasses: 
 
 - 👋 I’m Brianna, but you can call me Breezy.
-- 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 93.
+- 🎓 I'm currently pursuing an Honours Bachelor's degree in Cyber Security at Deakin University with a WAM of 95.75.
 - 📝 Recipient of the Deakin Scholarship for Excellence (Bachelors and Honours) and the Deakin Associate Dean Summer Research Scholarship twice.
 - 🎓 My honours research focuses on designing a mathematical framework for optimising xhaul networks in beyond 5G, with a focus on O-RAN architectures.
 - 🔒 **[Deakin Maths Yearbook 2023](https://nla.gov.au/nla.obj-3336557334/view):** I was the first person to be featured in the Deakin Maths Yearbook twice, and both times in the same year. My contributions included reports on Cryptography and Quantum Cryptography. I will also be in the 2024 edition for a report on optimisation in telecommunications.
