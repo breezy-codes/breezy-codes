@@ -18,11 +18,11 @@
 ## :sunglasses: About Me :sunglasses: 
 
 - 👋 I’m Brianna, but you can call me Breezy.  
-- 🎓 Honours Bachelor’s in Cyber Security at Deakin University (WAM 95.75). Commencing a PhD in **Telecommunications & Computational Mathematics** in late 2025.  
+- 🎓 Honours Bachelor’s in Cyber Security at Deakin University (WAM 95.75). Commencing a PhD in **applied mathematics and communication engineering** in late 2025.  
 - 🏆 Recipient of the Deakin Scholarship for Excellence (Bachelors & Honours) and the Associate Dean Summer Research Scholarship (twice).  
 - 📖 Featured in the **Deakin Maths Yearbook** [2023](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2023/25824244/1) (Cryptography & Quantum Cryptography) and [2024](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2024/29670008/2) (Optimisation in Telecommunications).  
 - 📄 Publications:  
-  - [OFC 2025 Conference Paper](https://opg.optica.org/abstract.cfm?uri=OFC-2025-M1I.3) - [Journal of Optical Communications and Networking (JOCN)](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-17-11-E50)  
+  - [OFC 2025 Conference Paper](https://opg.optica.org/abstract.cfm?uri=OFC-2025-M1I.3) - [JOCN Paper](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-17-11-E50)  
   - 3 more papers currently in progress  
 
 ---
@@ -37,14 +37,16 @@
 
 ## 🛠️ Current Projects
 
-- **Honours/PhD Network Optimisation Framework** (private repo): Extending MILP and heuristic models for scalable O-RAN/x-haul planning.  
+- **Honours/PhD Network Optimisation Framework** (private repo): Extending MILP and heuristic models for scalable O-RAN/x-haul planning, soon to be a public version.
+- **Obsidian Repositories:** Tools and enhancements for the Obsidian knowledge ecosystem.  
+  - [Obsidian CSS Snippets](https://github.com/breezy-codes/Obsidian-CSS-Snippets) - [Obsidian Completr](https://github.com/breezy-codes/obsidian-completr) - [Obsidian Callouts](https://github.com/breezy-codes/Obsidian-Callouts)  
 - **Obsidian Knowledge Base:** A growing collection of structured notes, definitions, and LaTeX resources for graph theory, optimisation, telecommunications, and bushfire modelling.  
   - [Telecommunication Notes](https://github.com/breezy-codes/obsidian-telecommunication-definition-notes) - [Bushfire Modelling Notes](https://github.com/breezy-codes/obsidian-bushfire-modelling-notes)
 - **Maths Repos (coming soon):** Planned repositories for optimisation algorithms, graph theory experiments, and teaching resources.  
 
 ---
 
-## 🚀 Projects & Contributions
+## 🚀 Other Projects & Contributions
 
 - **[Computer Networks Guide Book](https://comp-networks.breezy-codes.com):** Networking concepts, Wireshark analysis, and CISCO Packet Tracer tutorials.  
 - **[The World of Cryptography](https://crypto.breezy-codes.com):** Cryptography theory with Python implementations.  
@@ -53,8 +55,6 @@
 - **Capstone Projects:**  
   - [SplashKit](https://github.com/splashkit): Added new functions, tutorials, and led a capstone team.  
   - [Thoth Tech](https://github.com/thoth-tech): Extended company documentation and contributed to multiple projects.  
-- **Obsidian Repositories:** Tools and enhancements for the Obsidian knowledge ecosystem.  
-  - [Obsidian CSS Snippets](https://github.com/breezy-codes/Obsidian-CSS-Snippets) - [Obsidian Completr](https://github.com/breezy-codes/obsidian-completr) - [Obsidian Callouts](https://github.com/breezy-codes/Obsidian-Callouts)  
 
 ---
 
@@ -156,11 +156,4 @@ C#                       3 repos             █░░░░░░░░░░�
 <div align="center">
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,ai,raspberrypi,linux,ubuntu,arch" alt="Tools"/>
-</div>
-
-<div align="center">
-    <h3>Tools and Softwares</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,ai,raspberrypi,linux,ubuntu,arch" alt="Tools"/>
-    </a>
 </div>
