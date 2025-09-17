@@ -22,8 +22,7 @@
 - 🏆 Recipient of the Deakin Scholarship for Excellence (Bachelors & Honours) and the Associate Dean Summer Research Scholarship (twice).  
 - 📖 Featured in the **Deakin Maths Yearbook** [2023](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2023/25824244/1) (Cryptography & Quantum Cryptography) and [2024](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2024/29670008/2) (Optimisation in Telecommunications).  
 - 📄 Publications:  
-  - [OFC 2025 Conference Paper](https://opg.optica.org/abstract.cfm?uri=OFC-2025-M1I.3)  
-  - [Journal of Optical Communications and Networking (JOCN)](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-17-11-E50)  
+  - [OFC 2025 Conference Paper](https://opg.optica.org/abstract.cfm?uri=OFC-2025-M1I.3) - [Journal of Optical Communications and Networking (JOCN)](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-17-11-E50)  
   - 3 more papers currently in progress  
 
 ---
