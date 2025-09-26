@@ -18,7 +18,7 @@
 ## :sunglasses: About Me :sunglasses: 
 
 - 👋 I’m Brianna, but you can call me Breezy.  
-- 🎓 Honours Bachelor’s in Cyber Security at Deakin University (WAM 95.75). Commencing a PhD in **applied mathematics and communication engineering** in late 2025.  
+- 🎓 Honours Bachelor’s in Cyber Security at Deakin University (WAM 95.75). Commencing a PhD in **applied mathematics and communication engineering** in the beginning of 2026.  
 - 🏆 Recipient of the Deakin Scholarship for Excellence (Bachelors & Honours) and the Associate Dean Summer Research Scholarship (twice).  
 - 📖 Featured in the **Deakin Maths Yearbook** [2023](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2023/25824244/1) (Cryptography & Quantum Cryptography) and [2024](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2024/29670008/2) (Optimisation in Telecommunications).  
 - 📄 Publications:  
@@ -39,10 +39,11 @@
 
 - **Honours/PhD Network Optimisation Framework** (private repo): Extending MILP and heuristic models for scalable O-RAN/x-haul planning, soon to be a public version.
 - **Obsidian Repositories:** Tools and enhancements for the Obsidian knowledge ecosystem.  
-  - [Obsidian CSS Snippets](https://github.com/breezy-codes/Obsidian-CSS-Snippets) - [Obsidian Completr](https://github.com/breezy-codes/obsidian-completr) - [Obsidian Callouts](https://github.com/breezy-codes/Obsidian-Callouts)  
-- **Obsidian Knowledge Base:** A growing collection of structured notes, definitions, and LaTeX resources for graph theory, optimisation, telecommunications, and bushfire modelling.  
-  - [Telecommunication Notes](https://github.com/breezy-codes/obsidian-telecommunication-definition-notes) - [Bushfire Modelling Notes](https://github.com/breezy-codes/obsidian-bushfire-modelling-notes)
-- **Maths Repos (coming soon):** Planned repositories for optimisation algorithms, graph theory experiments, and teaching resources.  
+  - [Obsidian CSS Snippets](https://github.com/breezy-codes/Obsidian-CSS-Snippets) - [Obsidian Completr](https://github.com/breezy-codes/obsidian-completr) - [Obsidian Callouts](https://github.com/breezy-codes/Obsidian-Callouts) - [Bibtex to md generator](https://github.com/breezy-codes/obsidian-bibtex-2-md-generator)
+- **Obsidian Knowledge Base:** A growing collection of structured notes and LaTeX resources.  
+  - [Telecommunication Notes](https://github.com/breezy-codes/obsidian-telecommunication-definition-notes) - [cheat sheets](https://github.com/breezy-codes/Cheat-Sheets)
+- **Maths Repos:** Collections, experiments and notes in optimisation, graph theory, and applied mathematical modelling.  
+  - [Greedy Algorithm](https://github.com/breezy-codes/Greedy-Algorithm) - [Bushfire Modelling Notes](https://github.com/breezy-codes/obsidian-bushfire-modelling-notes) - [Maths Definitions Notes](https://github.com/breezy-codes/obsidian-mathematics-definitions)
 
 ---
 
@@ -60,78 +61,6 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 4,392 Contributions in the Year 2025
- > 
-> 📦 9.4 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 47 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    927 commits    ███████████░░░░░░░░░░░░░░   44.78% 
-🌆 Daytime    977 commits    ███████████░░░░░░░░░░░░░░   47.2% 
-🌃 Evening    166 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       275 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Tuesday      353 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
-Wednesday    265 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-Thursday     285 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Friday       316 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
-Saturday     227 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-Sunday       349 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-Python                   25 hrs 50 mins      ███████████████████░░░░░░   78.19% 
-Markdown                 3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
-Other                    2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
-Bash                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
-Text                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
-
-🔥 Editors: 
-VS Code                  29 hrs 39 mins      ██████████████████████░░░   89.73% 
-Obsidian                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.27%
-
-💻 Operating System: 
-Linux                    33 hrs 3 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         22 repos            █████████░░░░░░░░░░░░░░░░   37.29% 
-TeX                      16 repos            ██████░░░░░░░░░░░░░░░░░░░   27.12% 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
-
-```
-
-
-
- Last Updated on 21/09/2025
 <!--END_SECTION:waka-->
 
 
