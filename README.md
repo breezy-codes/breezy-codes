@@ -40,22 +40,19 @@
 - **Honours/PhD Network Optimisation Framework** (private repo): Extending MILP and heuristic models for scalable O-RAN/x-haul planning, soon to be a public version.
 - **Obsidian Repositories:** Tools and enhancements for the Obsidian knowledge ecosystem.  
   - [Obsidian CSS Snippets](https://github.com/breezy-codes/Obsidian-CSS-Snippets) - [Obsidian Completr](https://github.com/breezy-codes/obsidian-completr) - [Obsidian Callouts](https://github.com/breezy-codes/Obsidian-Callouts) - [Bibtex to md generator](https://github.com/breezy-codes/obsidian-bibtex-2-md-generator)
-- **Obsidian Knowledge Base:** A growing collection of structured notes and LaTeX resources.  
-  - [Telecommunication Notes](https://github.com/breezy-codes/obsidian-telecommunication-definition-notes) - [cheat sheets](https://github.com/breezy-codes/Cheat-Sheets)
-- **Maths Repos:** Collections, experiments and notes in optimisation, graph theory, and applied mathematical modelling.  
-  - [Greedy Algorithm](https://github.com/breezy-codes/Greedy-Algorithm) - [Bushfire Modelling Notes](https://github.com/breezy-codes/obsidian-bushfire-modelling-notes) - [Maths Definitions Notes](https://github.com/breezy-codes/obsidian-mathematics-definitions)
+- **Obsidian Knowledge Base & Guides:** A growing collection of structured notes, LaTeX resources, and tutorials.  
+  - [Telecommunication Notes](https://github.com/breezy-codes/obsidian-telecommunication-definition-notes) - [Cheat Sheets](https://github.com/breezy-codes/Cheat-Sheets) - [Computer Networks Guide Book](https://comp-networks.breezy-codes.com)
+- **Maths Repos:** Collections, experiments, and notes in optimisation, cryptography, graph theory, and applied mathematical modelling.  
+  - [Greedy Algorithm](https://github.com/breezy-codes/Greedy-Algorithm) - [Bushfire Modelling Notes](https://github.com/breezy-codes/obsidian-bushfire-modelling-notes) - [Maths Definitions Notes](https://github.com/breezy-codes/obsidian-mathematics-definitions) - [The World of Cryptography](https://crypto.breezy-codes.com) - [Quantum Cryptography](https://quantum-crypto.breezy-codes.com)
 
 ---
 
-## 🚀 Other Projects & Contributions
+## 🤝 Group Collaborative Projects
 
-- **[Computer Networks Guide Book](https://comp-networks.breezy-codes.com):** Networking concepts, Wireshark analysis, and CISCO Packet Tracer tutorials.  
-- **[The World of Cryptography](https://crypto.breezy-codes.com):** Cryptography theory with Python implementations.  
-- **[Quantum Cryptography](https://quantum-crypto.breezy-codes.com):** Exploring quantum key distribution and post-quantum vulnerabilities.  
 - **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society):** Hackathon project visualising alcohol consumption statistics in Australia.  
 - **Capstone Projects:**  
-  - [SplashKit](https://github.com/splashkit): Added new functions, tutorials, and led a capstone team.  
-  - [Thoth Tech](https://github.com/thoth-tech): Extended company documentation and contributed to multiple projects.  
+  - [SplashKit](https://github.com/splashkit): Added new functions to Splashkit library, developed tutorials, and led a capstone team.  
+  - [Thoth Tech](https://github.com/thoth-tech): Extended company documentation and contributed to multiple projects.
 
 ---
 
