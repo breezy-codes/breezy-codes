@@ -16,7 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_EDITORS: "True"
           SHOW_COMMIT: "True"
-          SHOW_PROFILE_VIEWS: "True"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_TIMEZONE: "True"
