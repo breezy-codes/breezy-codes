@@ -18,12 +18,15 @@
 ## :sunglasses: About Me :sunglasses: 
 
 - 👋 I’m Brianna, but you can call me Breezy.  
-- 🎓 Honours Bachelor’s in Cyber Security at Deakin University (WAM 95.75). Commencing a PhD in **applied mathematics and communication engineering** in the beginning of 2026.  
+- 🎓 Graduated with a Bachelor of Cyber Security (Honours) from Deakin University (WAM 96).
+- 🎓 Currently a PhD candidate in applied mathematics and communication engineering, focusing on disaster-resilient communication networks across both planning and operational phases.
 - 🏆 Recipient of the Deakin Scholarship for Excellence (Bachelors & Honours) and the Associate Dean Summer Research Scholarship (twice).  
 - 📖 Featured in the **Deakin Maths Yearbook** [2023](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2023/25824244/1) (Cryptography & Quantum Cryptography) and [2024](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2024/29670008/2) (Optimisation in Telecommunications).  
 - 📄 Publications:  
-  - [OFC 2025 Conference Paper](https://opg.optica.org/abstract.cfm?uri=OFC-2025-M1I.3) - [JOCN Paper](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-17-11-E50)  
-  - 3 more papers currently in progress  
+  - [OFC 2025 - Optical x-haul for beyond 5G: cost-effective deployment strategies](https://opg.optica.org/abstract.cfm?uri=OFC-2025-M1I.3)
+  - [JOCN - Cost-optimal network planning for converged optical X-haul in Beyond 5G networks](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-17-11-E50)
+  - [ACS 2026 - " You're not learning": A layered formative intervention to turn AI misuse into a learning opportunity](https://dl.acm.org/doi/pdf/10.1145/3786228.3786244)
+  - 2 more papers currently in progress  
 
 ---
 
@@ -58,78 +61,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 664 Contributions in the Year 2026
- > 
-> 📦 9.8 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 49 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    743 commits    ███████████░░░░░░░░░░░░░░   43.71% 
-🌆 Daytime    836 commits    ████████████░░░░░░░░░░░░░   49.18% 
-🌃 Evening    121 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       225 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-Tuesday      284 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
-Wednesday    237 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
-Thursday     238 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Friday       270 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-Saturday     188 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
-Sunday       258 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.18%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-Markdown                 16 hrs 1 min        ███████████░░░░░░░░░░░░░░   45.31% 
-Python                   11 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   33.04% 
-TeX                      2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.36% 
-Other                    2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
-Julia                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.79%
-
-🔥 Editors: 
-VS Code                  19 hrs 20 mins      █████████████░░░░░░░░░░░░   54.69% 
-Obsidian                 16 hrs 1 min        ███████████░░░░░░░░░░░░░░   45.31%
-
-💻 Operating System: 
-Linux                    35 hrs 21 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         20 repos            ███████░░░░░░░░░░░░░░░░░░   29.85% 
-TeX                      18 repos            ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.48%
-
-```
-
-
-
- Last Updated on 22/03/2026
 <!--END_SECTION:waka-->
 
 
