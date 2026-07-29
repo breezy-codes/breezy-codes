@@ -17,24 +17,25 @@
 
 ## :sunglasses: About Me :sunglasses: 
 
-- 👋 I’m Brianna, but you can call me Breezy.  
-- 🎓 Graduated with a Bachelor of Cyber Security (Honours) from Deakin University (WAM 96).
+- 👋 I’m Brianna, but you can call me Breezy.
+- 🎓 Graduated with a Bachelor of Cyber Security (Honours) from Deakin University (WAM 96), receiving the Vice Chancellors Prize, coursework research award and the David Stokes award.
 - 🎓 Currently a PhD candidate in applied mathematics and communication engineering, focusing on disaster-resilient communication networks across both planning and operational phases.
-- 🏆 Recipient of the Deakin Scholarship for Excellence (Bachelors & Honours) and the Associate Dean Summer Research Scholarship (twice).  
+- 🏆 Recipient of the Deakin Scholarship for Excellence (Bachelors & Honours) and the Associate Dean Summer Research Scholarship (three times).
 - 📖 Featured in the **Deakin Maths Yearbook** [2023](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2023/25824244/1) (Cryptography & Quantum Cryptography) and [2024](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2024/29670008/2) (Optimisation in Telecommunications).  
 - 📄 Publications:  
   - [OFC 2025 - Optical x-haul for beyond 5G: cost-effective deployment strategies](https://opg.optica.org/abstract.cfm?uri=OFC-2025-M1I.3)
   - [JOCN - Cost-optimal network planning for converged optical X-haul in Beyond 5G networks](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-17-11-E50)
   - [ACS 2026 - " You're not learning": A layered formative intervention to turn AI misuse into a learning opportunity](https://dl.acm.org/doi/pdf/10.1145/3786228.3786244)
-  - 2 more papers currently in progress  
+  - 3 papers under review
+  - 5 papers currently in progress
 
 ---
 
 ## 🔬 Research Focus
 
-- **Telecommunication Network Planning:** Optimisation frameworks for efficient x-haul deployment in beyond 5G networks, addressing rural connectivity challenges.  
-- **Mathematics & Network Optimisation:** Applying advanced mathematical programming to reconfigurable RAN design and cost-effective deployment.  
-- **Graph Theory & Operations Research:** Using combinatorial optimisation and graph-based methods for scalable network planning.  
+- **Telecommunication Network Planning:** Optimisation frameworks for efficient x-haul deployment in beyond 5G networks, addressing rural connectivity challenges.
+- **Mathematics & Network Optimisation:** Applying advanced mathematical programming to reconfigurable RAN design and cost-effective deployment.
+- **Graph Theory & Operations Research:** Using combinatorial optimisation and graph-based methods for scalable network planning.
 
 ---
 
@@ -52,8 +53,8 @@
 
 ## 🤝 Group Collaborative Projects
 
-- **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society):** Hackathon project visualising alcohol consumption statistics in Australia.  
-- **Capstone Projects:**  
+- **[Eclectic Sheep Society](https://github.com/breezy-codes/Eclectic-Sheep-Society):** Hackathon project visualising alcohol consumption statistics in Australia.
+- **Capstone Projects:**
   - [SplashKit](https://github.com/splashkit): Added new functions to Splashkit library, developed tutorials, and led a capstone team.  
   - [Thoth Tech](https://github.com/thoth-tech): Extended company documentation and contributed to multiple projects.
 
