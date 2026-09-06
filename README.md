@@ -62,11 +62,11 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-156.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,104 Contributions in the Year 2026
+> 🏆 2,127 Contributions in the Year 2026
  > 
 > 📦 9.1 MB Used in Github's Storage 
  > 
@@ -79,22 +79,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    586 commits    █████████░░░░░░░░░░░░░░░░   38.89% 
-🌆 Daytime    829 commits    █████████████░░░░░░░░░░░░   55.01% 
-🌃 Evening    92 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
+🌞 Morning    585 commits    █████████░░░░░░░░░░░░░░░░   38.51% 
+🌆 Daytime    837 commits    █████████████░░░░░░░░░░░░   55.1% 
+🌃 Evening    97 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       210 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
-Tuesday      239 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-Wednesday    226 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Thursday     216 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
-Friday       230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.26% 
-Saturday     173 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
-Sunday       213 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.13%
+Monday       210 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Tuesday      239 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Wednesday    226 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Thursday     220 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
+Friday       233 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
+Saturday     170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
+Sunday       221 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55%
 
 ```
 
@@ -105,18 +105,18 @@ Sunday       213 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Markdown                 4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.5% 
-CSV                      3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   27.07% 
-Python                   3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62% 
-TeX                      2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
+Markdown                 7 hrs 58 mins       ████████████████░░░░░░░░░   67.14% 
+Julia                    3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.64% 
+TeX                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-VS Code                  9 hrs 7 mins        █████████████████░░░░░░░░   67.5% 
-Obsidian                 4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.5%
+Obsidian                 7 hrs 23 mins       ███████████████░░░░░░░░░░   62.26% 
+VS Code                  4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.74%
 
 💻 Operating System: 
-Linux                    13 hrs 31 mins      █████████████████████████   100.0%
+Linux                    11 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -133,7 +133,7 @@ Linear Programming       5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026
+ Last Updated on 06/09/2026
 <!--END_SECTION:waka-->
 
 
