@@ -66,35 +66,35 @@
 
 **🐱 My Github Data** 
 
-> 🏆 2,127 Contributions in the Year 2026
+> 🏆 2,149 Contributions in the Year 2026
  > 
-> 📦 9.1 MB Used in Github's Storage 
+> 📦 9.2 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 48 Private Repositories  
+> 🔑 51 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    585 commits    █████████░░░░░░░░░░░░░░░░   38.51% 
-🌆 Daytime    837 commits    █████████████░░░░░░░░░░░░   55.1% 
-🌃 Evening    97 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
+🌞 Morning    571 commits    █████████░░░░░░░░░░░░░░░░   37.76% 
+🌆 Daytime    844 commits    ██████████████░░░░░░░░░░░   55.82% 
+🌃 Evening    97 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       210 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Tuesday      239 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
-Wednesday    226 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-Thursday     220 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Friday       233 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
-Saturday     170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-Sunday       221 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55%
+Monday       206 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
+Tuesday      244 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
+Wednesday    230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
+Thursday     218 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
+Friday       231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Saturday     167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+Sunday       216 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
@@ -105,35 +105,33 @@ Sunday       221 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Markdown                 7 hrs 58 mins       ████████████████░░░░░░░░░   67.14% 
-Julia                    3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.64% 
-TeX                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+Julia                    5 hrs 43 mins       █████████████░░░░░░░░░░░░   53.88% 
+Markdown                 4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.97% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-Obsidian                 7 hrs 23 mins       ███████████████░░░░░░░░░░   62.26% 
-VS Code                  4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.74%
+VS Code                  5 hrs 44 mins       █████████████░░░░░░░░░░░░   54.03% 
+Obsidian                 4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.97%
 
 💻 Operating System: 
-Linux                    11 hrs 52 mins      █████████████████████████   100.0%
+Linux                    10 hrs 36 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-TeX                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-Python                   12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Linear Programming       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
+Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24% 
+TeX                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Python                   12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Linear Programming       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.58%
 
 ```
 
 
 
- Last Updated on 06/09/2026
+ Last Updated on 13/09/2026
 <!--END_SECTION:waka-->
 
 
