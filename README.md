@@ -62,39 +62,39 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,149 Contributions in the Year 2026
+> 🏆 2,227 Contributions in the Year 2026
  > 
-> 📦 9.2 MB Used in Github's Storage 
+> 📦 9.3 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 51 Private Repositories  
+> 🔑 52 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    571 commits    █████████░░░░░░░░░░░░░░░░   37.76% 
-🌆 Daytime    844 commits    ██████████████░░░░░░░░░░░   55.82% 
-🌃 Evening    97 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
+🌞 Morning    577 commits    █████████░░░░░░░░░░░░░░░░   37.71% 
+🌆 Daytime    856 commits    ██████████████░░░░░░░░░░░   55.95% 
+🌃 Evening    97 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       206 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
-Tuesday      244 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
-Wednesday    230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
-Thursday     218 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-Friday       231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
-Saturday     167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
-Sunday       216 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Monday       203 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
+Tuesday      230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Wednesday    222 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.51% 
+Thursday     221 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+Friday       233 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
+Saturday     192 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Sunday       229 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
 
 ```
 
@@ -105,33 +105,35 @@ Sunday       216 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Julia                    5 hrs 43 mins       █████████████░░░░░░░░░░░░   53.88% 
-Markdown                 4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.97% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Markdown                 14 hrs 7 mins       ████████████░░░░░░░░░░░░░   50.27% 
+Julia                    12 hrs 59 mins      ███████████░░░░░░░░░░░░░░   46.23% 
+Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
+Git Config               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       █████████████░░░░░░░░░░░░   54.03% 
-Obsidian                 4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.97%
+Obsidian                 14 hrs 3 mins       ████████████░░░░░░░░░░░░░   50.06% 
+VS Code                  14 hrs 1 min        ████████████░░░░░░░░░░░░░   49.94%
 
 💻 Operating System: 
-Linux                    10 hrs 36 mins      █████████████████████████   100.0%
+Linux                    28 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-TeX                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-Python                   12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Linear Programming       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.58%
+Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+TeX                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+Linear Programming       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35%
 
 ```
 
 
 
- Last Updated on 13/09/2026
+ Last Updated on 20/09/2026
 <!--END_SECTION:waka-->
 
 
