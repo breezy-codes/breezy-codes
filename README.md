@@ -62,11 +62,11 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-161.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,227 Contributions in the Year 2026
+> 🏆 2,324 Contributions in the Year 2026
  > 
 > 📦 9.3 MB Used in Github's Storage 
  > 
@@ -79,22 +79,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    577 commits    █████████░░░░░░░░░░░░░░░░   37.71% 
-🌆 Daytime    856 commits    ██████████████░░░░░░░░░░░   55.95% 
-🌃 Evening    97 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
+🌞 Morning    474 commits    █████████░░░░░░░░░░░░░░░░   35.64% 
+🌆 Daytime    772 commits    ██████████████░░░░░░░░░░░   58.05% 
+🌃 Evening    84 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       203 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-Tuesday      230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-Wednesday    222 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.51% 
-Thursday     221 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Friday       233 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
-Saturday     192 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
-Sunday       229 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
+Monday       185 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
+Tuesday      194 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
+Wednesday    191 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Thursday     202 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Friday       213 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Saturday     150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
+Sunday       195 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.66%
 
 ```
 
@@ -105,18 +105,18 @@ Sunday       229 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Markdown                 14 hrs 7 mins       ████████████░░░░░░░░░░░░░   50.27% 
-Julia                    12 hrs 59 mins      ███████████░░░░░░░░░░░░░░   46.23% 
-Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-Git Config               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+Markdown                 7 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   42.88% 
+Python                   4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35% 
+TeX                      2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
+CSV                      2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
+Bash                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
 
 🔥 Editors: 
-Obsidian                 14 hrs 3 mins       ████████████░░░░░░░░░░░░░   50.06% 
-VS Code                  14 hrs 1 min        ████████████░░░░░░░░░░░░░   49.94%
+VS Code                  10 hrs 32 mins      ██████████████░░░░░░░░░░░   58.46% 
+Obsidian                 7 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.54%
 
 💻 Operating System: 
-Linux                    28 hrs 5 mins       █████████████████████████   100.0%
+Linux                    18 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +124,7 @@ Linux                    28 hrs 5 mins       ███████████�
 
 ```text
 Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-TeX                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+TeX                      15 repos            █████░░░░░░░░░░░░░░░░░░░░   22.06% 
 Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
 HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
 Linear Programming       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35%
@@ -133,7 +133,7 @@ Linear Programming       5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026
+ Last Updated on 27/09/2026
 <!--END_SECTION:waka-->
 
 
