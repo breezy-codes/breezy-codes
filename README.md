@@ -62,39 +62,39 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-161.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,324 Contributions in the Year 2026
+> 🏆 2,428 Contributions in the Year 2026
  > 
-> 📦 9.3 MB Used in Github's Storage 
+> 📦 9.5 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 52 Private Repositories  
+> 🔑 54 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    474 commits    █████████░░░░░░░░░░░░░░░░   35.64% 
-🌆 Daytime    772 commits    ██████████████░░░░░░░░░░░   58.05% 
-🌃 Evening    84 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
+🌞 Morning    505 commits    █████████░░░░░░░░░░░░░░░░   37.86% 
+🌆 Daytime    758 commits    ██████████████░░░░░░░░░░░   56.82% 
+🌃 Evening    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       185 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
-Tuesday      194 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-Wednesday    191 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-Thursday     202 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Friday       213 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-Saturday     150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Sunday       195 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.66%
+Monday       177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
+Tuesday      204 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+Wednesday    195 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Thursday     202 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
+Friday       221 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+Saturday     157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.77% 
+Sunday       178 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.34%
 
 ```
 
@@ -105,35 +105,35 @@ Sunday       195 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Markdown                 7 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   42.88% 
-Python                   4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35% 
-TeX                      2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-CSV                      2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Bash                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
+Markdown                 21 hrs 47 mins      █████████████████░░░░░░░░   69.82% 
+Python                   5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
+Bash                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
+TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
 
 🔥 Editors: 
-VS Code                  10 hrs 32 mins      ██████████████░░░░░░░░░░░   58.46% 
-Obsidian                 7 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.54%
+Obsidian                 21 hrs 47 mins      █████████████████░░░░░░░░   69.82% 
+VS Code                  9 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   30.18%
 
 💻 Operating System: 
-Linux                    18 hrs 2 mins       █████████████████████████   100.0%
+Linux                    31 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-TeX                      15 repos            █████░░░░░░░░░░░░░░░░░░░░   22.06% 
-Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Linear Programming       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35%
+Jupyter Notebook         16 repos            █████░░░░░░░░░░░░░░░░░░░░   22.54% 
+TeX                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72% 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
+Julia                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
 
 ```
 
 
 
- Last Updated on 27/09/2026
+ Last Updated on 04/10/2026
 <!--END_SECTION:waka-->
 
 
