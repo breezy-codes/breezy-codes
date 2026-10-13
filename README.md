@@ -62,6 +62,78 @@
 
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160.5%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 2,491 Contributions in the Year 2026
+ > 
+> 📦 9.3 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 53 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    513 commits    █████████░░░░░░░░░░░░░░░░   38.14% 
+🌆 Daytime    764 commits    ██████████████░░░░░░░░░░░   56.8% 
+🌃 Evening    68 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       197 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
+Tuesday      203 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+Wednesday    196 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
+Thursday     207 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.39% 
+Friday       222 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
+Saturday     150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
+Sunday       170 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.64%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+Julia                    32 hrs 47 mins      █████████████████░░░░░░░░   69.15% 
+Markdown                 10 hrs 11 mins      █████░░░░░░░░░░░░░░░░░░░░   21.5% 
+Python                   3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
+TeX                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+
+🔥 Editors: 
+VS Code                  38 hrs 38 mins      ████████████████████░░░░░   81.5% 
+Obsidian                 8 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.5%
+
+💻 Operating System: 
+Linux                    47 hrs 24 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         16 repos            █████░░░░░░░░░░░░░░░░░░░░   22.54% 
+TeX                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72% 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
+Julia                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
+
+```
+
+
+
+ Last Updated on 13/10/2026
 <!--END_SECTION:waka-->
 
 
