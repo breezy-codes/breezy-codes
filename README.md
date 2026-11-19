@@ -67,6 +67,36 @@
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.57%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 8.6 MB Used in GitHub's Storage 
+ > 
+> 🏆 2,979 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 56 Private Repositories 
+ > 
+**I Mostly Code in TeX** 
+
+```text
+TeX                      17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Julia                    8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Linear Programming       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+BibTeX Style             2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+```
+
+
+
+
+ Last Updated on 19/11/2026 01:30:38 UTC
 <!--END_SECTION:waka-->
 
 
