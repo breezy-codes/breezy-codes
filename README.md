@@ -18,21 +18,23 @@
 ## :sunglasses: About Me :sunglasses: 
 
 - 👋 I’m Brianna, but you can call me Breezy.
-- 🎓 Graduated with a Bachelor of Cyber Security (Honours) from Deakin University (WAM 96), receiving the Vice Chancellors Prize, coursework research award and the David Stokes award.
-- 🎓 Currently a PhD candidate in applied mathematics and communication engineering, focusing on disaster-resilient communication networks across both planning and operational phases.
-- 🏆 Recipient of the Deakin Scholarship for Excellence (Bachelors & Honours) and the Associate Dean Summer Research Scholarship (three times).
-- 📖 Featured in the **Deakin Maths Yearbook** [2023](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2023/25824244/1) (Cryptography & Quantum Cryptography) and [2024](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2024/29670008/2) (Optimisation in Telecommunications).  
+- 🎓 Graduated with a Bachelor of Cyber Security (Honours) from Deakin University (WAM 96), receiving the Vice Chancellor's Prize, Coursework Research Award, Technical Leadership Award, and the David Stokes Award.
+- 🎓 Pursuing a PhD in applied mathematics and communication engineering, focusing on disaster-resilient communication networks across both planning and operational phases.
+- 🚒 Currently a PhD Intern with the Queensland Fire Department, working on optimising the type and location of aerial firefighting hubs.
+- 🏆 Supported by an NHRA top-up scholarship, and recipient of the Deakin Scholarship for Excellence (Bachelors & Honours) and the Associate Dean Summer Research Scholarship (three times).
+- 📖 Featured in the **Deakin Maths Yearbook** [2023](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2023/25824244/1) (Cryptography & Quantum Cryptography) and [2024](https://dro.deakin.edu.au/articles/book/Mathematics_Yearbook_2024/29670008/2) (Optimisation in Telecommunications). 
 - 📄 Publications:  
   - [OFC 2025 - Optical x-haul for beyond 5G: cost-effective deployment strategies](https://opg.optica.org/abstract.cfm?uri=OFC-2025-M1I.3)
   - [JOCN - Cost-optimal network planning for converged optical X-haul in Beyond 5G networks](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-17-11-E50)
-  - [ACS 2026 - " You're not learning": A layered formative intervention to turn AI misuse into a learning opportunity](https://dl.acm.org/doi/pdf/10.1145/3786228.3786244)
-  - 3 papers under review
-  - 5 papers currently in progress
-
+  - [ACS 2026 - "You're not learning": A layered formative intervention to turn AI misuse into a learning opportunity](https://dl.acm.org/doi/pdf/10.1145/3786228.3786244)
+  - [Computer Communications 2026 - Toward reconfigurable RAN in beyond 5G: A survey of architectural design, planning, and operation](https://doi.org/10.1016/j.comcom.2026.108655)
+  - 2 papers under review
+  - 3 papers currently in progress
 ---
 
 ## 🔬 Research Focus
 
+- **Disaster-Resilient Communications:** Probabilistic modelling and GIS-driven frameworks to maintain emergency telecommunications reliability during natural hazards.
 - **Telecommunication Network Planning:** Optimisation frameworks for efficient x-haul deployment in beyond 5G networks, addressing rural connectivity challenges.
 - **Mathematics & Network Optimisation:** Applying advanced mathematical programming to reconfigurable RAN design and cost-effective deployment.
 - **Graph Theory & Operations Research:** Using combinatorial optimisation and graph-based methods for scalable network planning.
@@ -41,9 +43,13 @@
 
 ## 🛠️ Current Projects
 
-- **Honours Project:** [B5G / O-RAN / x-haul Network Optimisation Framework](https://github.com/breezy-codes/B5G-network-planning-algorithms) — MILP and heuristic models for scalable O-RAN / x-haul planning, developed during my honours research.
+- **PhD Research & Software:**
+  - [Emergency Facility Telecom GIS](https://github.com/breezy-codes/Emergency-Facility-Telecom-GIS) — A probabilistic GIS framework for emergency telecommunications resilience and infrastructure planning.
+  - **Julia Packages *(In Development)*:** A network calculus library for deterministic performance bounds and a packet-level simulation package for evaluating network performance.
+- **Honours Project:** MILP, heuristic models, and synthetic data generation for scalable O-RAN / x-haul planning, developed during my honours research.
+  - [Network Optimisation Framework](https://github.com/breezy-codes/B5G-network-planning-algorithms) - [Network Dataset Generator](https://github.com/breezy-codes/B5G-network-dataset-generator)
 - **Obsidian Repositories:** Tools and enhancements for the Obsidian knowledge ecosystem.  
-  - [Obsidian CSS Snippets](https://github.com/breezy-codes/Obsidian-CSS-Snippets) - [Obsidian Completr](https://github.com/breezy-codes/obsidian-completr) - [Obsidian Callouts](https://github.com/breezy-codes/Obsidian-Callouts) - [Bibtex to md generator](https://github.com/breezy-codes/obsidian-bibtex-2-md-generator)
+  - [Obsidian CSS Snippets](https://github.com/breezy-codes/Obsidian-CSS-Snippets) - [Obsidian Completr](https://github.com/breezy-codes/obsidian-completr) - [Obsidian Callouts](https://github.com/breezy-codes/obsidian-Callouts) - [Bibtex to md generator](https://github.com/breezy-codes/obsidian-bibtex-2-md-generator)
 - **Obsidian Knowledge Base & Guides:** A growing collection of structured notes, LaTeX resources, and tutorials.  
   - [Telecommunication Notes](https://github.com/breezy-codes/obsidian-telecommunication-definition-notes) - [Cheat Sheets](https://github.com/breezy-codes/Cheat-Sheets) - [Computer Networks Guide Book](https://comp-networks.breezy-codes.com)
 - **Maths Repos:** Collections, experiments, and notes in optimisation, cryptography, graph theory, and applied mathematical modelling.  
@@ -62,78 +68,7 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-157.7%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 2,623 Contributions in the Year 2026
- > 
-> 📦 9.6 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 56 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    522 commits    █████████░░░░░░░░░░░░░░░░   37.45% 
-🌆 Daytime    805 commits    ██████████████░░░░░░░░░░░   57.75% 
-🌃 Evening    67 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       213 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
-Tuesday      176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Wednesday    203 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Thursday     236 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
-Friday       230 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Saturday     163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-Sunday       173 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.41%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-Julia                    10 hrs              ██████████░░░░░░░░░░░░░░░   42.85% 
-TeX                      6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   26.77% 
-Markdown                 4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
-Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
-
-🔥 Editors: 
-VS Code                  19 hrs 20 mins      ████████████████████░░░░░   82.8% 
-Obsidian                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.2%
-
-💻 Operating System: 
-Linux                    23 hrs 21 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in TeX** 
-
-```text
-TeX                      16 repos            █████░░░░░░░░░░░░░░░░░░░░   21.92% 
-Jupyter Notebook         16 repos            █████░░░░░░░░░░░░░░░░░░░░   21.92% 
-Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
-Julia                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.85%
-
-```
-
-
-
- Last Updated on 01/11/2026
 <!--END_SECTION:waka-->
 
 
@@ -152,7 +87,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=md,py,cpp,cs,dotnet,latex,js,java" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=md,py,julia,cpp,cs,dotnet,latex,js,java" alt="Languages"/>
 </div>
 
 <div align="center">
