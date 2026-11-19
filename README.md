@@ -67,15 +67,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C541%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.57%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.6 MB Used in GitHub's Storage 
  > 
-> 🏆 2,979 Contributions in the Year 2026
+> 🏆 2,984 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -83,6 +83,53 @@
  > 
 > 🔑 56 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3176 commits        ██████████░░░░░░░░░░░░░░░   41.45 % 
+🌆 Daytime                4148 commits        ██████████████░░░░░░░░░░░   54.13 % 
+🌃 Evening                339 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1186 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Tuesday                  1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Wednesday                1023 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Thursday                 1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Friday                   1090 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Saturday                 1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Sunday                   1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+Markdown                 45 hrs 44 mins      ████████████████████████░   97.24 % 
+TeX                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Text                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Julia                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔥 Editors: 
+Obsidian                 45 hrs 44 mins      ████████████████████████░   97.24 % 
+VS Code                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+
+💻 Operating System: 
+Linux                    47 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TeX** 
 
 ```text
@@ -95,8 +142,12 @@ BibTeX Style             2 repos             █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 19/11/2026 01:30:38 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/breezy-codes/breezy-codes/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/11/2026 01:51:44 UTC
 <!--END_SECTION:waka-->
 
 
